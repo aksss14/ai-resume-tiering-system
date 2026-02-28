@@ -1,12 +1,8 @@
-Perfect. I’ll frame a **clean, professional, internship-ready README** for you.
 
-You can copy-paste this directly into `README.md`.
-
----
 
 # AI Resume Shortlisting & Interview Assistant
 
-### (Option C — Intelligent Tiering & Question Generator)
+### (Intelligent Tiering & Question Generator)
 
 ---
 
@@ -245,3 +241,4 @@ README.md
 
 ---
 like an engineer.
+
